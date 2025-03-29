@@ -1,0 +1,241 @@
+[SERVER] [29/Mar/25 | 10:12:37AM.890 | 1743243157.890040] [server.py@<module>@22] [INFO] Server listening on 0.0.0.0:6969 127.0.0.1
+[SERVER] [29/Mar/25 | 10:12:45AM.060 | 1743243165.060251] [server.py@<module>@31] [INFO] Accepted connection from ('127.0.0.1', 57673)
+[SERVER] [29/Mar/25 | 10:13:01AM.756 | 1743243181.756615] [server.py@<module>@22] [INFO] Server listening on 0.0.0.0:6969 127.0.0.1
+[SERVER] [29/Mar/25 | 10:13:03AM.709 | 1743243183.709909] [server.py@<module>@31] [INFO] Accepted connection from ('127.0.0.1', 57675)
+[SERVER] [29/Mar/25 | 10:14:39AM.922 | 1743243279.922267] [server.py@<module>@31] [INFO] Accepted connection from ('127.0.0.1', 57696)
+[SERVER] [29/Mar/25 | 10:14:51AM.172 | 1743243291.172844] [server.py@<module>@22] [INFO] Server listening on 0.0.0.0:6969 127.0.0.1
+[SERVER] [29/Mar/25 | 10:14:54AM.257 | 1743243294.257556] [server.py@<module>@32] [INFO] Accepted connection from ('127.0.0.1', 57702)
+[SERVER] [29/Mar/25 | 10:16:20AM.753 | 1743243380.753758] [server.py@<module>@23] [INFO] Server listening on 0.0.0.0:6969 127.0.0.1
+[SERVER] [29/Mar/25 | 10:16:23AM.712 | 1743243383.712345] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57716)
+[SERVER] [29/Mar/25 | 10:16:35AM.822 | 1743243395.822872] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57719)
+[SERVER] [29/Mar/25 | 10:20:48AM.680 | 1743243648.680871] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57736)
+[SERVER] [29/Mar/25 | 10:22:09AM.194 | 1743243729.194801] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57744)
+[SERVER] [29/Mar/25 | 10:22:16AM.535 | 1743243736.535367] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57747)
+[SERVER] [29/Mar/25 | 10:23:47AM.511 | 1743243827.511898] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57754)
+[SERVER] [29/Mar/25 | 10:24:21AM.193 | 1743243861.193301] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57763)
+[SERVER] [29/Mar/25 | 10:24:30AM.906 | 1743243870.906471] [server.py@<module>@33] [INFO] Accepted connection from ('127.0.0.1', 57767)
+[SERVER] [29/Mar/25 | 11:35:02AM.638 | 1743248102.638386] [server.py@<module>@24] [INFO] Server listening on
+0.0.0.0 @ 6969 
+
+OR
+
+127.0.0.1 @ 6969
+[SERVER] [29/Mar/25 | 11:35:05AM.592 | 1743248105.592092] [server.py@<module>@34] [INFO] Accepted connection from ('127.0.0.1', 57836)
+[SERVER] [29/Mar/25 | 11:36:48AM.953 | 1743248208.953645] [server.py@<module>@34] [INFO] Accepted connection from ('127.0.0.1', 57844)
+[SERVER] [29/Mar/25 | 11:36:53AM.956 | 1743248213.956933] [server.py@<module>@34] [INFO] Accepted connection from ('127.0.0.1', 57846)
+[SERVER] [29/Mar/25 | 11:37:21AM.293 | 1743248241.293597] [server.py@<module>@24] [INFO] 
+Server listening on
+LOCALHOST / 0.0.0.0 @ 6969 
+
+OR
+
+127.0.0.1 @ 6969
+[SERVER] [29/Mar/25 | 11:38:35AM.033 | 1743248315.033568] [server.py@<module>@24] [INFO] 
+Server listening on
+0.0.0.0 @ 6969 
+
+OR
+
+127.0.0.1 @ 6969
+
+OR
+
+[Your external Internet Protocol Address] @ 6969
+[SERVER] [29/Mar/25 | 11:39:50AM.266 | 1743248390.266315] [server.py@<module>@34] [INFO] Accepted connection from ('127.0.0.1', 57887)
+[SERVER] [29/Mar/25 | 12:13:41PM.790 | 1743250421.790601] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:18:14PM.318 | 1743250694.318687] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:20:47PM.092 | 1743250847.092545] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:21:31PM.497 | 1743250891.497922] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:21:47PM.170 | 1743250907.170049] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:21:55PM.865 | 1743250915.865947] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:23:16PM.360 | 1743250996.360017] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:24:27PM.013 | 1743251067.013798] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:24:27PM.014 | 1743251067.014204] [server.py@udpOnlineCheck@35] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[SERVER] [29/Mar/25 | 12:24:38PM.299 | 1743251078.299072] [server.py@<module>@53] [INFO] New TCP connection from ('127.0.0.1', 58342)
+[SERVER] [29/Mar/25 | 12:24:53PM.191 | 1743251093.191261] [server.py@<module>@53] [INFO] New TCP connection from ('127.0.0.1', 58346)
+[SERVER] [29/Mar/25 | 12:24:58PM.522 | 1743251098.522415] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:24:58PM.522 | 1743251098.522676] [server.py@udpOnlineCheck@35] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[SERVER] [29/Mar/25 | 12:25:00PM.245 | 1743251100.245250] [server.py@<module>@53] [INFO] New TCP connection from ('127.0.0.1', 58349)
+[SERVER] [29/Mar/25 | 12:25:52PM.939 | 1743251152.939576] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:25:52PM.939 | 1743251152.939870] [server.py@udpOnlineCheck@35] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 12:25:55PM.731 | 1743251155.731555] [client.py@isServerOnline@66] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 12:25:55PM.731 | 1743251155.731872] [server.py@udpOnlineCheck@42] [INFO] Responded to PING from ('127.0.0.1', 62353)
+[SERVER] [29/Mar/25 | 12:25:55PM.732 | 1743251155.732077] [server.py@<module>@53] [INFO] New TCP connection from ('127.0.0.1', 58363)
+[SERVER] [29/Mar/25 | 12:49:36PM.179 | 1743252576.179080] [server.py@<module>@25] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 12:49:36PM.179 | 1743252576.179340] [server.py@udpOnlineCheck@35] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 12:49:38PM.564 | 1743252578.564849] [client.py@isServerOnline@66] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 12:49:38PM.565 | 1743252578.565213] [client.py@isServerOnline@74] [INFO] Server confirmed
+[SERVER] [29/Mar/25 | 12:49:38PM.565 | 1743252578.565211] [server.py@udpOnlineCheck@42] [INFO] Responded to PING from ('127.0.0.1', 59677)
+[SERVER] [29/Mar/25 | 12:49:38PM.565 | 1743252578.565450] [server.py@<module>@53] [INFO] New TCP connection from ('127.0.0.1', 58403)
+[SERVER] [29/Mar/25 | 01:01:42PM.941 | 1743253302.941693] [server.py@<module>@26] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:01:42PM.941 | 1743253302.941960] [server.py@udpOnlineCheck@36] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:01:46PM.081 | 1743253306.081107] [client.py@isServerOnline@79] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:01:46PM.081 | 1743253306.081406] [server.py@udpOnlineCheck@43] [INFO] Responded to PING from ('127.0.0.1', 49305)
+[SERVER] [29/Mar/25 | 01:01:46PM.081 | 1743253306.081623] [server.py@<module>@54] [INFO] New TCP connection from ('127.0.0.1', 58460)
+[SERVER] [29/Mar/25 | 01:02:39PM.571 | 1743253359.571679] [server.py@<module>@26] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:02:39PM.571 | 1743253359.571949] [server.py@udpOnlineCheck@36] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:02:42PM.817 | 1743253362.817112] [client.py@isServerOnline@79] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:02:42PM.817 | 1743253362.817378] [server.py@udpOnlineCheck@43] [INFO] Responded to PING from ('127.0.0.1', 50359)
+[SERVER] [29/Mar/25 | 01:02:42PM.817 | 1743253362.817614] [server.py@<module>@54] [INFO] New TCP connection from ('127.0.0.1', 58476)
+[SERVER] [29/Mar/25 | 01:03:56PM.484 | 1743253436.484245] [server.py@<module>@26] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:03:56PM.484 | 1743253436.484553] [server.py@udpOnlineCheck@36] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:03:58PM.350 | 1743253438.350239] [client.py@isServerOnline@79] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:03:58PM.350 | 1743253438.350547] [server.py@udpOnlineCheck@45] [ERROR] UDP error: a bytes-like object is required, not 'dict'
+[SERVER] [29/Mar/25 | 01:04:00PM.351 | 1743253440.351939] [server.py@<module>@54] [INFO] New TCP connection from ('127.0.0.1', 58501)
+[SERVER] [29/Mar/25 | 01:07:08PM.398 | 1743253628.398136] [server.py@<module>@27] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:07:08PM.398 | 1743253628.398670] [server.py@udpOnlineCheck@37] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:07:10PM.556 | 1743253630.556807] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:07:10PM.557 | 1743253630.557112] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 59068)
+[SERVER] [29/Mar/25 | 01:07:10PM.557 | 1743253630.557309] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58530)
+[CLIENT] [29/Mar/25 | 01:07:20PM.047 | 1743253640.047681] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:07:20PM.048 | 1743253640.048047] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 59210)
+[SERVER] [29/Mar/25 | 01:07:20PM.048 | 1743253640.048270] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58533)
+[CLIENT] [29/Mar/25 | 01:07:49PM.613 | 1743253669.613252] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:07:52PM.721 | 1743253672.721447] [server.py@<module>@27] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:07:52PM.721 | 1743253672.721706] [server.py@udpOnlineCheck@37] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:07:56PM.652 | 1743253676.652219] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:07:56PM.652 | 1743253676.652670] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 49432)
+[SERVER] [29/Mar/25 | 01:07:56PM.652 | 1743253676.652879] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58539)
+[CLIENT] [29/Mar/25 | 01:08:24PM.135 | 1743253704.135481] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:08:24PM.135 | 1743253704.135831] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 56327)
+[SERVER] [29/Mar/25 | 01:08:24PM.136 | 1743253704.136040] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58547)
+[SERVER] [29/Mar/25 | 01:09:39PM.310 | 1743253779.310566] [server.py@<module>@27] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:09:39PM.310 | 1743253779.310936] [server.py@udpOnlineCheck@37] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:09:43PM.131 | 1743253783.131969] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:09:43PM.132 | 1743253783.132310] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 50441)
+[CLIENT] [29/Mar/25 | 01:09:43PM.132 | 1743253783.132361] [client.py@isServerOnline@92] [INFO] AHHH
+[SERVER] [29/Mar/25 | 01:09:43PM.132 | 1743253783.132619] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58559)
+[SERVER] [29/Mar/25 | 01:10:51PM.607 | 1743253851.607882] [server.py@<module>@27] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:10:51PM.608 | 1743253851.608211] [server.py@udpOnlineCheck@37] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:10:53PM.323 | 1743253853.323703] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324027] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 54413)
+[CLIENT] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324054] [client.py@isServerOnline@92] [INFO] MAJOR OK
+[CLIENT] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324098] [client.py@isServerOnline@94] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324123] [client.py@isServerOnline@96] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324318] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58578)
