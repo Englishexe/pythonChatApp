@@ -239,3 +239,741 @@ OR
 [CLIENT] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324098] [client.py@isServerOnline@94] [INFO] MINOR OK
 [CLIENT] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324123] [client.py@isServerOnline@96] [INFO] PATCH OK
 [SERVER] [29/Mar/25 | 01:10:53PM.324 | 1743253853.324318] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58578)
+[SERVER] [29/Mar/25 | 01:33:14PM.130 | 1743255194.130418] [server.py@<module>@27] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:33:14PM.131 | 1743255194.131029] [server.py@udpOnlineCheck@37] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:33:17PM.440 | 1743255197.440600] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:33:17PM.440 | 1743255197.440837] [server.py@udpOnlineCheck@46] [INFO] Responded to PING from ('127.0.0.1', 53311)
+[CLIENT] [29/Mar/25 | 01:33:17PM.440 | 1743255197.440884] [client.py@isServerOnline@92] [INFO] MAJOR OK
+[CLIENT] [29/Mar/25 | 01:33:17PM.440 | 1743255197.440928] [client.py@isServerOnline@94] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:33:17PM.440 | 1743255197.440950] [client.py@isServerOnline@96] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:33:17PM.441 | 1743255197.441128] [server.py@<module>@57] [INFO] New TCP connection from ('127.0.0.1', 58671)
+[SERVER] [29/Mar/25 | 01:35:26PM.837 | 1743255326.837828] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:35:26PM.838 | 1743255326.838069] [server.py@udpOnlineCheck@38] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684249] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684502] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 53523)
+[CLIENT] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684535] [client.py@isServerOnline@92] [INFO] MAJOR OK
+[CLIENT] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684578] [client.py@isServerOnline@94] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684601] [client.py@isServerOnline@96] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:35:28PM.684 | 1743255328.684785] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58688)
+[SERVER] [29/Mar/25 | 01:36:30PM.428 | 1743255390.428503] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 01:36:30PM.428 | 1743255390.428742] [server.py@udpOnlineCheck@38] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485176] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485557] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 55983)
+[CLIENT] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485585] [client.py@isServerOnline@92] [INFO] MAJOR OK
+[CLIENT] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485643] [client.py@isServerOnline@94] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485686] [client.py@isServerOnline@96] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:36:32PM.485 | 1743255392.485839] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58702)
+[CLIENT] [29/Mar/25 | 01:39:57PM.293 | 1743255597.293910] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 01:39:57PM.294 | 1743255597.294818] [client.py@isServerOnline@96] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:39:57PM.294 | 1743255597.294860] [client.py@isServerOnline@98] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:39:57PM.294 | 1743255597.294876] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 49675)
+[SERVER] [29/Mar/25 | 01:39:57PM.295 | 1743255597.295062] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58738)
+[CLIENT] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143076] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143404] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 57718)
+[CLIENT] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143451] [client.py@isServerOnline@94] [CRITICAL] Server MAJOR version (0) doesn't match client MAJOR version (9)
+[CLIENT] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143494] [client.py@isServerOnline@96] [INFO] MINOR OK
+[CLIENT] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143516] [client.py@isServerOnline@98] [INFO] PATCH OK
+[SERVER] [29/Mar/25 | 01:40:07PM.143 | 1743255607.143703] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58741)
+[CLIENT] [29/Mar/25 | 01:45:32PM.633 | 1743255932.633310] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:45:32PM.633 | 1743255932.633631] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 58756)
+[SERVER] [29/Mar/25 | 01:45:32PM.633 | 1743255932.633790] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58816)
+[CLIENT] [29/Mar/25 | 01:45:45PM.511 | 1743255945.511243] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:45:45PM.511 | 1743255945.511564] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 53484)
+[CLIENT] [29/Mar/25 | 01:45:45PM.511 | 1743255945.511597] [client.py@isServerOnline@94] [CRITICAL] Server is incompatible with client. (S:0.0.1, C:9.0.1)
+Server is -9 ahead
+[SERVER] [29/Mar/25 | 01:45:45PM.511 | 1743255945.511763] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58820)
+[CLIENT] [29/Mar/25 | 01:46:05PM.281 | 1743255965.281560] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:46:05PM.281 | 1743255965.281870] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 57059)
+[CLIENT] [29/Mar/25 | 01:46:05PM.281 | 1743255965.281914] [client.py@isServerOnline@94] [CRITICAL] Server is incompatible with client. (S:0.0.1, C:9.0.1)
+Server is 9 ahead
+[SERVER] [29/Mar/25 | 01:46:05PM.282 | 1743255965.282081] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58825)
+[CLIENT] [29/Mar/25 | 01:46:35PM.531 | 1743255995.531922] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:46:35PM.532 | 1743255995.532237] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 55003)
+[CLIENT] [29/Mar/25 | 01:46:35PM.532 | 1743255995.532282] [client.py@isServerOnline@94] [CRITICAL] Server is incompatible with client. (S:0.0.1, C:9.0.1)
+Server is -9 versions ahead
+[SERVER] [29/Mar/25 | 01:46:35PM.532 | 1743255995.532500] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58838)
+[CLIENT] [29/Mar/25 | 01:48:17PM.319 | 1743256097.319344] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:48:17PM.319 | 1743256097.319665] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 63458)
+[CLIENT] [29/Mar/25 | 01:48:17PM.319 | 1743256097.319716] [client.py@isServerOnline@94] [CRITICAL] Server is incompatible with client. (S: 0.0.1, C: 9.0.1)
+Server is -9 MAJOR versions ahead. (- if behind)
+[SERVER] [29/Mar/25 | 01:48:17PM.319 | 1743256097.319889] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58845)
+[CLIENT] [29/Mar/25 | 01:49:52PM.952 | 1743256192.952461] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:49:52PM.952 | 1743256192.952798] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 63815)
+[CLIENT] [29/Mar/25 | 01:49:52PM.952 | 1743256192.952843] [client.py@isServerOnline@94] [CRITICAL] Server is incompatible with client. (S: 0.0.1, C: 9.0.1)
+Server is -9 MAJOR versions ahead. (- if behind)
+[SERVER] [29/Mar/25 | 01:49:52PM.953 | 1743256192.953041] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58867)
+[CLIENT] [29/Mar/25 | 01:49:59PM.314 | 1743256199.314113] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:49:59PM.314 | 1743256199.314441] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 64530)
+[CLIENT] [29/Mar/25 | 01:49:59PM.314 | 1743256199.314483] [client.py@isServerOnline@100] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+0 MAJOR versions ahead
+0 MINOR versions ahead
+0 PATCH versions ahead
+
+[SERVER] [29/Mar/25 | 01:49:59PM.314 | 1743256199.314680] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58869)
+[CLIENT] [29/Mar/25 | 01:54:41PM.738 | 1743256481.738060] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:54:41PM.738 | 1743256481.738384] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 56550)
+[CLIENT] [29/Mar/25 | 01:54:41PM.738 | 1743256481.738435] [client.py@isServerOnline@94] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.2)
+0 MAJOR versions ahead
+0 MINOR versions ahead
+-1 PATCH versions ahead
+[SERVER] [29/Mar/25 | 01:54:41PM.738 | 1743256481.738673] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58903)
+[CLIENT] [29/Mar/25 | 01:55:05PM.429 | 1743256505.429906] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 01:55:05PM.430 | 1743256505.430254] [server.py@udpOnlineCheck@47] [INFO] Responded to PING from ('127.0.0.1', 50228)
+[CLIENT] [29/Mar/25 | 01:55:05PM.430 | 1743256505.430284] [client.py@isServerOnline@94] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.2)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is -1 PATCH versions ahead
+[SERVER] [29/Mar/25 | 01:55:05PM.430 | 1743256505.430488] [server.py@<module>@58] [INFO] New TCP connection from ('127.0.0.1', 58908)
+[CLIENT] [29/Mar/25 | 02:01:35PM.129 | 1743256895.129365] [client.py@enterServerPort@68] [CRITICAL] Invalid server port given, defaulting to 6969.
+[CLIENT] [29/Mar/25 | 02:01:35PM.130 | 1743256895.130259] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 02:01:37PM.131 | 1743256897.131398] [client.py@isServerOnline@97] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[CLIENT] [29/Mar/25 | 02:02:05PM.891 | 1743256925.891308] [client.py@enterServerPort@68] [CRITICAL] Invalid server port given, defaulting to 6969.
+[CLIENT] [29/Mar/25 | 02:02:05PM.891 | 1743256925.891528] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 02:02:07PM.892 | 1743256927.892659] [client.py@isServerOnline@97] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[CLIENT] [29/Mar/25 | 02:03:09PM.282 | 1743256989.282583] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 02:03:11PM.283 | 1743256991.283899] [client.py@isServerOnline@97] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[CLIENT] [29/Mar/25 | 02:13:39PM.496 | 1743257619.496600] [client.py@isServerOnline@80] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 02:13:41PM.498 | 1743257621.498668] [client.py@isServerOnline@97] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[CLIENT] [29/Mar/25 | 02:27:55PM.110 | 1743258475.110886] [client.py@isServerOnline@82] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 02:27:57PM.113 | 1743258477.113194] [client.py@isServerOnline@99] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[SERVER] [29/Mar/25 | 02:27:58PM.607 | 1743258478.607964] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:27:58PM.608 | 1743258478.608500] [server.py@udpOnlineCheck@39] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:28:01PM.913 | 1743258481.913564] [client.py@isServerOnline@82] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:28:01PM.913 | 1743258481.913905] [server.py@udpOnlineCheck@48] [INFO] Responded to PING from ('127.0.0.1', 58605)
+[CLIENT] [29/Mar/25 | 02:28:01PM.913 | 1743258481.913938] [client.py@isServerOnline@96] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:28:01PM.914 | 1743258481.914096] [server.py@<module>@59] [INFO] New TCP connection from ('127.0.0.1', 59062)
+[CLIENT] [29/Mar/25 | 02:28:15PM.495 | 1743258495.495218] [client.py@isServerOnline@82] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:28:15PM.495 | 1743258495.495551] [server.py@udpOnlineCheck@48] [INFO] Responded to PING from ('127.0.0.1', 50672)
+[CLIENT] [29/Mar/25 | 02:28:15PM.495 | 1743258495.495589] [client.py@isServerOnline@96] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:28:15PM.495 | 1743258495.495758] [server.py@<module>@59] [INFO] New TCP connection from ('127.0.0.1', 59070)
+[CLIENT] [29/Mar/25 | 02:29:59PM.719 | 1743258599.719549] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:29:59PM.720 | 1743258599.720907] [server.py@udpOnlineCheck@48] [INFO] Responded to PING from ('127.0.0.1', 54172)
+[CLIENT] [29/Mar/25 | 02:29:59PM.720 | 1743258599.720962] [client.py@isServerOnline@97] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:29:59PM.721 | 1743258599.721170] [server.py@<module>@59] [INFO] New TCP connection from ('127.0.0.1', 59101)
+[CLIENT] [29/Mar/25 | 02:30:27PM.591 | 1743258627.591713] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:30:27PM.592 | 1743258627.592032] [server.py@udpOnlineCheck@48] [INFO] Responded to PING from ('127.0.0.1', 61662)
+[CLIENT] [29/Mar/25 | 02:30:27PM.592 | 1743258627.592066] [client.py@isServerOnline@97] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:30:27PM.592 | 1743258627.592226] [server.py@<module>@59] [INFO] New TCP connection from ('127.0.0.1', 59107)
+[SERVER] [29/Mar/25 | 02:36:31PM.376 | 1743258991.376171] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:36:31PM.376 | 1743258991.376815] [server.py@udpOnlineCheck@40] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:36:35PM.266 | 1743258995.266171] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:36:35PM.266 | 1743258995.266443] [server.py@udpOnlineCheck@49] [INFO] Responded to PING from ('127.0.0.1', 56758)
+[CLIENT] [29/Mar/25 | 02:36:35PM.266 | 1743258995.266483] [client.py@isServerOnline@97] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:36:35PM.266 | 1743258995.266662] [server.py@<module>@60] [INFO] New TCP connection from ('127.0.0.1', 59216)
+[SERVER] [29/Mar/25 | 02:45:10PM.501 | 1743259510.501807] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:45:10PM.502 | 1743259510.502023] [server.py@udpOnlineCheck@40] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:45:14PM.337 | 1743259514.337773] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:45:14PM.338 | 1743259514.338191] [server.py@udpOnlineCheck@54] [ERROR] UDP error: name 'addr' is not defined
+[CLIENT] [29/Mar/25 | 02:45:16PM.338 | 1743259516.338300] [client.py@isServerOnline@104] [WARNING] Server didn't respond, this likely means the server is not online or accessible.
+[SERVER] [29/Mar/25 | 02:45:32PM.285 | 1743259532.285110] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:45:32PM.285 | 1743259532.285352] [server.py@udpOnlineCheck@40] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:45:35PM.288 | 1743259535.288126] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:45:35PM.289 | 1743259535.289848] [server.py@udpOnlineCheck@52] [INFO] Responded to PING from ('127.0.0.1', 50651)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 02:45:35PM.290 | 1743259535.290738] [client.py@isServerOnline@100] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:45:35PM.291 | 1743259535.291232] [server.py@<module>@63] [INFO] New TCP connection from ('127.0.0.1', 59413)
+[SERVER] [29/Mar/25 | 02:53:48PM.619 | 1743260028.619146] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:53:48PM.619 | 1743260028.619356] [server.py@udpOnlineCheck@41] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:53:51PM.068 | 1743260031.068016] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:53:51PM.068 | 1743260031.068464] [server.py@udpOnlineCheck@53] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 57095)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 02:53:51PM.068 | 1743260031.068503] [client.py@isServerOnline@100] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:53:51PM.068 | 1743260031.068671] [server.py@<module>@64] [INFO] New TCP connection from ('127.0.0.1', 59542)
+[SERVER] [29/Mar/25 | 02:55:38PM.382 | 1743260138.382843] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:55:38PM.383 | 1743260138.383146] [server.py@udpOnlineCheck@41] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:55:41PM.304 | 1743260141.304931] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:55:41PM.305 | 1743260141.305248] [server.py@udpOnlineCheck@53] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 59821)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 02:55:41PM.305 | 1743260141.305271] [client.py@isServerOnline@100] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:55:41PM.305 | 1743260141.305456] [server.py@<module>@64] [INFO] New TCP connection from ('127.0.0.1', 59558)
+[SERVER] [29/Mar/25 | 02:57:13PM.691 | 1743260233.691945] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 02:57:13PM.692 | 1743260233.692214] [server.py@udpOnlineCheck@41] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 02:57:16PM.407 | 1743260236.407122] [client.py@isServerOnline@83] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 02:57:16PM.407 | 1743260236.407544] [server.py@udpOnlineCheck@53] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 51691)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 02:57:16PM.407 | 1743260236.407572] [client.py@isServerOnline@100] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 02:57:16PM.407 | 1743260236.407772] [server.py@<module>@64] [INFO] New TCP connection from ('127.0.0.1', 59599)
+[SERVER] [29/Mar/25 | 03:01:10PM.474 | 1743260470.474935] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:01:10PM.475 | 1743260470.475522] [server.py@udpOnlineCheck@41] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:01:11PM.940 | 1743260471.940101] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:01:11PM.940 | 1743260471.940394] [server.py@udpOnlineCheck@53] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 53516)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:01:11PM.940 | 1743260471.940425] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:01:11PM.940 | 1743260471.940584] [server.py@<module>@64] [INFO] New TCP connection from ('127.0.0.1', 59710)
+[SERVER] [29/Mar/25 | 03:01:33PM.693 | 1743260493.693101] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:01:33PM.693 | 1743260493.693349] [server.py@udpOnlineCheck@41] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:01:36PM.242 | 1743260496.242797] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:01:36PM.243 | 1743260496.243148] [server.py@udpOnlineCheck@53] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 60376)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:01:36PM.243 | 1743260496.243192] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:01:36PM.243 | 1743260496.243422] [server.py@<module>@64] [INFO] New TCP connection from ('127.0.0.1', 59729)
+[SERVER] [29/Mar/25 | 03:09:46PM.719 | 1743260986.719146] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:09:46PM.719 | 1743260986.719936] [server.py@udpOnlineCheck@54] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:09:49PM.699 | 1743260989.699109] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:09:49PM.699 | 1743260989.699435] [server.py@udpOnlineCheck@66] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54292)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:09:49PM.699 | 1743260989.699458] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:09:49PM.699 | 1743260989.699642] [server.py@<module>@77] [INFO] New TCP connection from ('127.0.0.1', 59891)
+[SERVER] [29/Mar/25 | 03:09:51PM.116 | 1743260991.116072] [server.py@handleClient@46] [INFO] [RAW DATA] (('127.0.0.1', 59891)) {"type": "credentials", "credentialsType": "anon"}
+[SERVER] [29/Mar/25 | 03:10:06PM.408 | 1743261006.408277] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:10:06PM.408 | 1743261006.408535] [server.py@udpOnlineCheck@54] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:10:24PM.980 | 1743261024.980048] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 03:10:24PM.980 | 1743261024.980455] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:10:24PM.980 | 1743261024.980443] [server.py@udpOnlineCheck@66] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 56741)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 03:10:24PM.980 | 1743261024.980623] [server.py@<module>@77] [INFO] New TCP connection from ('127.0.0.1', 59895)
+[CLIENT] [29/Mar/25 | 03:10:38PM.743 | 1743261038.743348] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:10:38PM.743 | 1743261038.743734] [server.py@udpOnlineCheck@66] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 53224)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:10:38PM.743 | 1743261038.743766] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:10:38PM.743 | 1743261038.743950] [server.py@<module>@77] [INFO] New TCP connection from ('127.0.0.1', 59896)
+[CLIENT] [29/Mar/25 | 03:11:12PM.685 | 1743261072.685880] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:11:12PM.686 | 1743261072.686269] [server.py@udpOnlineCheck@66] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 56330)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:11:12PM.686 | 1743261072.686311] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:11:12PM.686 | 1743261072.686525] [server.py@<module>@77] [INFO] New TCP connection from ('127.0.0.1', 59909)
+[SERVER] [29/Mar/25 | 03:11:15PM.357 | 1743261075.357816] [server.py@handleClient@46] [INFO] [RAW DATA] (('127.0.0.1', 59909)) {"type": "credentials", "credentialsType": "login", "username": "d", "password": "8277e0910d750195b448797616e091ad"}
+[SERVER] [29/Mar/25 | 03:11:24PM.951 | 1743261084.951965] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:11:24PM.952 | 1743261084.952210] [server.py@udpOnlineCheck@54] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:11:27PM.356 | 1743261087.356701] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:11:27PM.357 | 1743261087.357011] [server.py@udpOnlineCheck@66] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 57764)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:11:27PM.357 | 1743261087.357050] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:11:27PM.357 | 1743261087.357230] [server.py@<module>@77] [INFO] New TCP connection from ('127.0.0.1', 59915)
+[SERVER] [29/Mar/25 | 03:11:29PM.270 | 1743261089.270836] [server.py@handleClient@46] [INFO] [RAW DATA] (('127.0.0.1', 59915)) {"type": "credentials", "credentialsType": "login", "username": "d", "password": "8277e0910d750195b448797616e091ad"}
+[SERVER] [29/Mar/25 | 03:11:44PM.642 | 1743261104.642195] [server.py@handleClient@46] [INFO] [RAW DATA] (('127.0.0.1', 59915)) {"type": "credentials", "credentialsType": "signup", "username": "dexter", "password": "5f4dcc3b5aa765d61d8327deb882cf99", "email": null}
+[SERVER] [29/Mar/25 | 03:11:50PM.761 | 1743261110.761777] [server.py@handleClient@46] [INFO] [RAW DATA] (('127.0.0.1', 59915)) {"type": "credentials", "credentialsType": "anon"}
+[SERVER] [29/Mar/25 | 03:34:19PM.609 | 1743262459.609903] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:34:19PM.610 | 1743262459.610399] [server.py@udpOnlineCheck@74] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:34:23PM.299 | 1743262463.299829] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 03:34:23PM.300 | 1743262463.300148] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:34:23PM.300 | 1743262463.300130] [server.py@udpOnlineCheck@86] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 59506)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 03:34:23PM.300 | 1743262463.300312] [server.py@<module>@97] [INFO] New TCP connection from ('127.0.0.1', 60306)
+[SERVER] [29/Mar/25 | 03:34:25PM.693 | 1743262465.693854] [server.py@handleClient@54] [INFO] [RAW DATA] (('127.0.0.1', 60306)) {"type": "credentials", "credentialsType": "anon"}
+[SERVER] [29/Mar/25 | 03:35:19PM.151 | 1743262519.151428] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:35:19PM.151 | 1743262519.151680] [server.py@udpOnlineCheck@74] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:35:20PM.464 | 1743262520.464719] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:35:20PM.465 | 1743262520.465056] [server.py@udpOnlineCheck@86] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 60300)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:35:20PM.465 | 1743262520.465087] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:35:20PM.465 | 1743262520.465260] [server.py@<module>@97] [INFO] New TCP connection from ('127.0.0.1', 60320)
+[SERVER] [29/Mar/25 | 03:35:22PM.718 | 1743262522.718287] [server.py@handleClient@54] [INFO] [RAW DATA] (('127.0.0.1', 60320)) {"type": "credentials", "credentialsType": "login", "username": "d", "password": "8277e0910d750195b448797616e091ad"}
+[SERVER] [29/Mar/25 | 03:39:24PM.743 | 1743262764.743098] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:39:24PM.744 | 1743262764.744065] [server.py@udpOnlineCheck@76] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:39:27PM.731 | 1743262767.731242] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 03:39:27PM.732 | 1743262767.732055] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:39:27PM.732 | 1743262767.732049] [server.py@udpOnlineCheck@88] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54420)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 03:39:27PM.732 | 1743262767.732419] [server.py@<module>@99] [INFO] New TCP connection from ('127.0.0.1', 60341)
+[SERVER] [29/Mar/25 | 03:39:29PM.378 | 1743262769.378957] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60341)) b'{"type": "credentials", "credentialsType": "anon"}'
+[SERVER] [29/Mar/25 | 03:40:08PM.402 | 1743262808.402518] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:40:08PM.407 | 1743262808.407121] [server.py@udpOnlineCheck@76] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:40:11PM.574 | 1743262811.574349] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 03:40:11PM.574 | 1743262811.574998] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:40:11PM.574 | 1743262811.574976] [server.py@udpOnlineCheck@88] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 58004)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 03:40:11PM.575 | 1743262811.575276] [server.py@<module>@99] [INFO] New TCP connection from ('127.0.0.1', 60347)
+[SERVER] [29/Mar/25 | 03:40:13PM.014 | 1743262813.014394] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60347)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:16PM.773 | 1743262816.773413] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60347)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:39PM.528 | 1743262839.528665] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:40:39PM.529 | 1743262839.529948] [server.py@udpOnlineCheck@78] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:40:42PM.565 | 1743262842.565269] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 03:40:42PM.566 | 1743262842.566125] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:40:42PM.566 | 1743262842.566080] [server.py@udpOnlineCheck@90] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 57980)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 03:40:42PM.566 | 1743262842.566443] [server.py@<module>@101] [INFO] New TCP connection from ('127.0.0.1', 60360)
+[SERVER] [29/Mar/25 | 03:40:43PM.371 | 1743262843.371139] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60360)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:44PM.309 | 1743262844.309753] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60360)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:44PM.309 | 1743262844.309985] [server.py@handleClient@68] [WARNING] Cannot relogin
+[SERVER] [29/Mar/25 | 03:40:45PM.292 | 1743262845.292752] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60360)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:45PM.293 | 1743262845.293088] [server.py@handleClient@68] [WARNING] Cannot relogin
+[SERVER] [29/Mar/25 | 03:40:45PM.893 | 1743262845.893957] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60360)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:40:45PM.894 | 1743262845.894656] [server.py@handleClient@68] [WARNING] Cannot relogin
+[SERVER] [29/Mar/25 | 03:46:07PM.393 | 1743263167.393303] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:46:07PM.394 | 1743263167.394524] [server.py@udpOnlineCheck@80] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:46:10PM.310 | 1743263170.310280] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:46:10PM.314 | 1743263170.314701] [server.py@udpOnlineCheck@92] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 50255)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:46:10PM.314 | 1743263170.314886] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:46:10PM.317 | 1743263170.317387] [server.py@<module>@103] [INFO] New TCP connection from ('127.0.0.1', 60482)
+[SERVER] [29/Mar/25 | 03:46:11PM.206 | 1743263171.206129] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60482)) {'type': 'credentials', 'credentialsType': 'anon'}
+[CLIENT] [29/Mar/25 | 03:46:48PM.204 | 1743263208.204469] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:46:48PM.205 | 1743263208.205445] [server.py@udpOnlineCheck@92] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54462)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:46:48PM.205 | 1743263208.205506] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:46:48PM.205 | 1743263208.205935] [server.py@<module>@103] [INFO] New TCP connection from ('127.0.0.1', 60495)
+[SERVER] [29/Mar/25 | 03:46:48PM.960 | 1743263208.960705] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60495)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:52:47PM.536 | 1743263567.536542] [server.py@<module>@28] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 03:52:47PM.537 | 1743263567.537966] [server.py@udpOnlineCheck@80] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 03:52:52PM.995 | 1743263572.995385] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:52:52PM.996 | 1743263572.996169] [server.py@udpOnlineCheck@92] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54517)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:52:52PM.996 | 1743263572.996227] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:52:52PM.996 | 1743263572.996651] [server.py@<module>@103] [INFO] New TCP connection from ('127.0.0.1', 60535)
+[SERVER] [29/Mar/25 | 03:52:53PM.960 | 1743263573.960403] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60535)) {'type': 'credentials', 'credentialsType': 'anon'}
+[CLIENT] [29/Mar/25 | 03:53:27PM.200 | 1743263607.200727] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:53:27PM.201 | 1743263607.201697] [server.py@udpOnlineCheck@92] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 62821)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:53:27PM.201 | 1743263607.201768] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:53:27PM.202 | 1743263607.202173] [server.py@<module>@103] [INFO] New TCP connection from ('127.0.0.1', 60548)
+[SERVER] [29/Mar/25 | 03:53:28PM.208 | 1743263608.208971] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:53:29PM.718 | 1743263609.718938] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:53:29PM.719 | 1743263609.719159] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[SERVER] [29/Mar/25 | 03:54:25PM.767 | 1743263665.767315] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:25PM.768 | 1743263665.768891] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[SERVER] [29/Mar/25 | 03:54:26PM.461 | 1743263666.461098] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:26PM.461 | 1743263666.461336] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[SERVER] [29/Mar/25 | 03:54:26PM.796 | 1743263666.796721] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:26PM.796 | 1743263666.796979] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[SERVER] [29/Mar/25 | 03:54:27PM.077 | 1743263667.077731] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:27PM.077 | 1743263667.077944] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[SERVER] [29/Mar/25 | 03:54:27PM.359 | 1743263667.359071] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60548)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:27PM.359 | 1743263667.359274] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60548) tried to relogin
+[CLIENT] [29/Mar/25 | 03:54:31PM.469 | 1743263671.469840] [client.py@isServerOnline@84] [INFO] Checking 3, 6969
+[CLIENT] [29/Mar/25 | 03:54:31PM.472 | 1743263671.472343] [client.py@isServerOnline@108] [WARNING] Error: [Errno 65] No route to host
+[CLIENT] [29/Mar/25 | 03:54:33PM.857 | 1743263673.857101] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 03:54:33PM.858 | 1743263673.858100] [server.py@udpOnlineCheck@92] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 56890)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 03:54:33PM.858 | 1743263673.858208] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 03:54:33PM.858 | 1743263673.858665] [server.py@<module>@103] [INFO] New TCP connection from ('127.0.0.1', 60565)
+[SERVER] [29/Mar/25 | 03:54:34PM.482 | 1743263674.482495] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60565)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:35PM.161 | 1743263675.161065] [server.py@handleClient@56] [INFO] [RAW DATA] (('127.0.0.1', 60565)) {'type': 'credentials', 'credentialsType': 'anon'}
+[SERVER] [29/Mar/25 | 03:54:35PM.161 | 1743263675.161339] [server.py@handleClient@70] [WARNING] ('127.0.0.1', 60565) tried to relogin
+[SERVER] [29/Mar/25 | 04:15:19PM.486 | 1743264919.486607] [server.py@<module>@30] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:15:19PM.488 | 1743264919.488629] [server.py@udpOnlineCheck@105] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:15:22PM.993 | 1743264922.993235] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 04:15:22PM.994 | 1743264922.994347] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:15:22PM.994 | 1743264922.994353] [server.py@udpOnlineCheck@117] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 61529)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 04:15:22PM.994 | 1743264922.994759] [server.py@<module>@128] [INFO] New TCP connection from ('127.0.0.1', 60870)
+[SERVER] [29/Mar/25 | 04:15:39PM.424 | 1743264939.424559] [server.py@handleClient@72] [INFO] [RAW DATA] (('127.0.0.1', 60870)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': 'dexter@email.com'}
+[SERVER] [29/Mar/25 | 04:15:58PM.375 | 1743264958.375010] [server.py@<module>@30] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:15:58PM.377 | 1743264958.377921] [server.py@udpOnlineCheck@105] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:16:00PM.690 | 1743264960.690554] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:16:00PM.691 | 1743264960.691909] [server.py@udpOnlineCheck@117] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 65100)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:16:00PM.692 | 1743264960.692001] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:16:00PM.692 | 1743264960.692616] [server.py@<module>@128] [INFO] New TCP connection from ('127.0.0.1', 60878)
+[SERVER] [29/Mar/25 | 04:16:05PM.839 | 1743264965.839306] [server.py@handleClient@72] [INFO] [RAW DATA] (('127.0.0.1', 60878)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'dexter.turner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99'}
+[SERVER] [29/Mar/25 | 04:16:08PM.823 | 1743264968.823186] [server.py@<module>@30] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:16:08PM.825 | 1743264968.825161] [server.py@udpOnlineCheck@105] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:16:11PM.562 | 1743264971.562125] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:16:11PM.563 | 1743264971.563326] [server.py@udpOnlineCheck@117] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 64363)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:16:11PM.563 | 1743264971.563393] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:16:11PM.563 | 1743264971.563899] [server.py@<module>@128] [INFO] New TCP connection from ('127.0.0.1', 60881)
+[SERVER] [29/Mar/25 | 04:16:22PM.677 | 1743264982.677369] [server.py@handleClient@72] [INFO] [RAW DATA] (('127.0.0.1', 60881)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': 'email@email.com'}
+[SERVER] [29/Mar/25 | 04:18:04PM.964 | 1743265084.964468] [server.py@<module>@30] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:18:04PM.966 | 1743265084.966605] [server.py@udpOnlineCheck@105] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:18:07PM.717 | 1743265087.717684] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:18:07PM.718 | 1743265087.718664] [server.py@udpOnlineCheck@117] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 58140)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:18:07PM.718 | 1743265087.718740] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:18:07PM.719 | 1743265087.719311] [server.py@<module>@128] [INFO] New TCP connection from ('127.0.0.1', 60910)
+[SERVER] [29/Mar/25 | 04:18:14PM.569 | 1743265094.569797] [server.py@handleClient@72] [INFO] [RAW DATA] (('127.0.0.1', 60910)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:18:25PM.764 | 1743265105.764174] [server.py@<module>@30] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:18:25PM.766 | 1743265105.766081] [server.py@udpOnlineCheck@105] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:18:28PM.625 | 1743265108.625533] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:18:28PM.626 | 1743265108.626064] [server.py@udpOnlineCheck@117] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 62056)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:18:28PM.626 | 1743265108.626106] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:18:28PM.626 | 1743265108.626453] [server.py@<module>@128] [INFO] New TCP connection from ('127.0.0.1', 60916)
+[SERVER] [29/Mar/25 | 04:18:35PM.356 | 1743265115.356637] [server.py@handleClient@72] [INFO] [RAW DATA] (('127.0.0.1', 60916)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:19:05PM.614 | 1743265145.614702] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:19:05PM.615 | 1743265145.615820] [server.py@udpOnlineCheck@107] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:19:06PM.703 | 1743265146.703236] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:19:06PM.705 | 1743265146.705624] [server.py@udpOnlineCheck@119] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54676)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:19:06PM.710 | 1743265146.710163] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:19:06PM.715 | 1743265146.715715] [server.py@<module>@130] [INFO] New TCP connection from ('127.0.0.1', 60929)
+[SERVER] [29/Mar/25 | 04:19:13PM.089 | 1743265153.089067] [server.py@handleClient@74] [INFO] [RAW DATA] (('127.0.0.1', 60929)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:19:49PM.835 | 1743265189.835385] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:19:49PM.836 | 1743265189.836202] [server.py@udpOnlineCheck@107] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:19:53PM.549 | 1743265193.549732] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:19:53PM.550 | 1743265193.550260] [server.py@udpOnlineCheck@119] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 59390)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:19:53PM.550 | 1743265193.550313] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:19:53PM.550 | 1743265193.550653] [server.py@<module>@130] [INFO] New TCP connection from ('127.0.0.1', 60938)
+[SERVER] [29/Mar/25 | 04:20:02PM.004 | 1743265202.004244] [server.py@handleClient@74] [INFO] [RAW DATA] (('127.0.0.1', 60938)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:20:29PM.169 | 1743265229.169731] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:20:29PM.171 | 1743265229.171098] [server.py@udpOnlineCheck@108] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:20:30PM.269 | 1743265230.269570] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:20:30PM.272 | 1743265230.272661] [server.py@udpOnlineCheck@120] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 64487)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:20:30PM.273 | 1743265230.273398] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:20:30PM.274 | 1743265230.274496] [server.py@<module>@131] [INFO] New TCP connection from ('127.0.0.1', 60946)
+[SERVER] [29/Mar/25 | 04:20:38PM.335 | 1743265238.335228] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60946)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:25:01PM.668 | 1743265501.668442] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:25:01PM.669 | 1743265501.669584] [server.py@udpOnlineCheck@108] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:25:04PM.606 | 1743265504.606151] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 04:25:04PM.606 | 1743265504.606648] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:25:04PM.606 | 1743265504.606626] [server.py@udpOnlineCheck@120] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 64061)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 04:25:04PM.606 | 1743265504.606874] [server.py@<module>@131] [INFO] New TCP connection from ('127.0.0.1', 60972)
+[SERVER] [29/Mar/25 | 04:25:10PM.458 | 1743265510.458796] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60972)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'd', 'password': '8277e0910d750195b448797616e091ad', 'email': None}
+[CLIENT] [29/Mar/25 | 04:25:10PM.459 | 1743265510.459311] [client.py@clientStart@187] [INFO] Logged in as d
+[CLIENT] [29/Mar/25 | 04:25:18PM.087 | 1743265518.087493] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:25:18PM.088 | 1743265518.088193] [server.py@udpOnlineCheck@120] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 55723)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:25:18PM.088 | 1743265518.088232] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:25:18PM.088 | 1743265518.088544] [server.py@<module>@131] [INFO] New TCP connection from ('127.0.0.1', 60973)
+[SERVER] [29/Mar/25 | 04:25:22PM.177 | 1743265522.177561] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60973)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99'}
+[SERVER] [29/Mar/25 | 04:25:41PM.391 | 1743265541.391743] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:25:41PM.392 | 1743265541.392880] [server.py@udpOnlineCheck@108] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:25:42PM.686 | 1743265542.686332] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 04:25:42PM.687 | 1743265542.687166] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:25:42PM.687 | 1743265542.687131] [server.py@udpOnlineCheck@120] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 49194)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 04:25:42PM.687 | 1743265542.687433] [server.py@<module>@131] [INFO] New TCP connection from ('127.0.0.1', 60979)
+[SERVER] [29/Mar/25 | 04:25:47PM.806 | 1743265547.806883] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60979)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99'}
+[SERVER] [29/Mar/25 | 04:26:07PM.232 | 1743265567.232353] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:26:07PM.232 | 1743265567.232934] [server.py@udpOnlineCheck@108] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:26:09PM.908 | 1743265569.908111] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[CLIENT] [29/Mar/25 | 04:26:09PM.908 | 1743265569.908683] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:26:09PM.908 | 1743265569.908662] [server.py@udpOnlineCheck@120] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 55084)(Dexters-MacBook-Pro.local)
+[SERVER] [29/Mar/25 | 04:26:09PM.908 | 1743265569.908965] [server.py@<module>@131] [INFO] New TCP connection from ('127.0.0.1', 60986)
+[SERVER] [29/Mar/25 | 04:26:15PM.700 | 1743265575.700688] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60986)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'd', 'password': '8277e0910d750195b448797616e091ad'}
+[SERVER] [29/Mar/25 | 04:26:20PM.032 | 1743265580.032534] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60986)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'dext', 'password': 'd41d8cd98f00b204e9800998ecf8427e'}
+[SERVER] [29/Mar/25 | 04:26:20PM.032 | 1743265580.032689] [server.py@handleClient@98] [WARNING] ('127.0.0.1', 60986) tried to re-login
+[SERVER] [29/Mar/25 | 04:26:28PM.740 | 1743265588.740548] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 60986)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[SERVER] [29/Mar/25 | 04:26:28PM.740 | 1743265588.740691] [server.py@handleClient@98] [WARNING] ('127.0.0.1', 60986) tried to re-login
+[SERVER] [29/Mar/25 | 04:27:31PM.143 | 1743265651.143259] [server.py@<module>@32] [INFO] 
+Clients only need your hostname and TCP Port
+Server listening on
+0.0.0.0 @ 6969 (UDP is 6970)
+
+OR
+
+127.0.0.1 @ 6969 (UDP is6970)
+[SERVER] [29/Mar/25 | 04:27:31PM.144 | 1743265651.144191] [server.py@udpOnlineCheck@111] [INFO] UDP Online Check Server running on 0.0.0.0:6970
+[CLIENT] [29/Mar/25 | 04:27:33PM.505 | 1743265653.505584] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:27:33PM.506 | 1743265653.506219] [server.py@udpOnlineCheck@123] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 54831)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:27:33PM.506 | 1743265653.506309] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:27:33PM.506 | 1743265653.506592] [server.py@<module>@134] [INFO] New TCP connection from ('127.0.0.1', 61006)
+[SERVER] [29/Mar/25 | 04:27:42PM.291 | 1743265662.291587] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 61006)) {'type': 'credentials', 'credentialsType': 'signup', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99', 'email': None}
+[CLIENT] [29/Mar/25 | 04:27:42PM.292 | 1743265662.292077] [client.py@clientStart@187] [INFO] Logged in as dexterturner
+[CLIENT] [29/Mar/25 | 04:27:45PM.788 | 1743265665.788565] [client.py@isServerOnline@84] [INFO] Checking 0.0.0.0, 6969
+[SERVER] [29/Mar/25 | 04:27:45PM.789 | 1743265665.789287] [server.py@udpOnlineCheck@123] [INFO] Responded to udpOnlineCheck from ('127.0.0.1', 64034)(Dexters-MacBook-Pro.local)
+[CLIENT] [29/Mar/25 | 04:27:45PM.789 | 1743265665.789356] [client.py@isServerOnline@101] [INFO] Server is online and compatible with client. (S: 0.0.1, C: 0.0.1)
+Server is 0 MAJOR versions ahead
+Server is 0 MINOR versions ahead
+Server is 0 PATCH versions ahead
+[SERVER] [29/Mar/25 | 04:27:45PM.789 | 1743265665.789665] [server.py@<module>@134] [INFO] New TCP connection from ('127.0.0.1', 61008)
+[SERVER] [29/Mar/25 | 04:27:51PM.130 | 1743265671.130318] [server.py@handleClient@75] [INFO] [RAW DATA] (('127.0.0.1', 61008)) {'type': 'credentials', 'credentialsType': 'login', 'username': 'dexterturner', 'password': '5f4dcc3b5aa765d61d8327deb882cf99'}

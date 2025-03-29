@@ -1,0 +1,8 @@
+1. (UDP) client -> server : hostname, Version
+2. (UDP) server -> client : hostname, Version
+
+client checks servers version if okay continue
+
+3. (TCP) client -> server : client connects over TCP to server
+4. (TCP) server -> client : 
+5. (TCP) X -> X: Back and forth when required
